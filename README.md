@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **lakshya.garg2004@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/qsgvvsgpbztf](https://www.overleaf.com/read/qsgvvsgpbztf)
-
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1e8HFXW38TS9weFN4YnBsHuBOtCp9eKoZ/view?usp=sharing>My Resume</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshya-garg-47781a259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lakshya-garg-47781a259/" height="30" width="40" /></a>
